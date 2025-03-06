@@ -1,0 +1,112 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Qi SUN - The Chinese University of Hong Kong}
+
+# {}{img_left}{img/photo-1.jpg}{}{200}{}{}
+~~~
+{}{img_left}{img/photo-3.jpeg}{}{180}{}{}
+= Qi SUN
+
+*Ph.D. Candidate*  
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Office*:Rm 905, Ho Sin Hang Engineering Building \n
+*Email*:qsun\[at\]cse.cuhk.edu.hk \n
+~~~
+
+{{<a href="https://www.linkedin.com/in/qi-sun-b655a1146/" target="<u>blank"><img src="img/linkedin.png" height=30></a>}} {{<a href="https://scholar.google.com/citations?user=4OnODOAAAAAJ&hl=en" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
+
+== Biography
+
+I'm a Ph.D. candidate at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2018.
+Previously, I received my B.Eng. in Software Engineering from [http://www.xidian.edu.cn Xidian University (XDU)] in 2018. My research interests include algorithm acceleration, High-Level Synthesis, and design space exploration.
+
+[http://appsrv.cse.cuhk.edu.hk/~qsun/cv_QiSun.pdf My CV]
+
+== Publications
+
+=== Conference papers
+- \[C15\] *Qi Sun*, Xinyun Zhang, Hao Geng, Yuxuan Zhao, Yang Bai, Haisheng Zheng, Bei Yu, “GTuner: Tuning DNN Computations on GPU via Graph Attention Network”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Jul. 10–14, 2022.
+- \[C14\] Xinyun Zhang, Binwu Zhu, Xufeng Yao, *Qi Sun*, Ruiyu Li, Bei Yu, “Context-based Contrastive Learning for Scene Text Recognition”, AAAI Conference on Artificial Intelligence (*AAAI*), Feb. 22–Mar. 1, 2022.
+- \[C13\] Hao Geng, Tinghuan Chen, *Qi Sun*, Bei Yu, “Techniques for CAD Tool Parameter Auto-tuning in Physical Synthesis: A Survey”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 17–20, 2022. (Invited Paper)
+- \[C12\] *Qi Sun*, Chen Bai, Tinghuan Chen, Hao Geng, Xinyun Zhang, Yang Bai, Bei Yu, “Fast and Efficient DNN Deployment via Deep Gaussian Transfer Learning”, IEEE International Conference on Computer Vision (*ICCV*), Oct. 11-17, 2021. 
+# ([https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Fast_and_Efficient_DNN_Deployment_via_Deep_Gaussian_Transfer_Learning_ICCV_2021_paper.html paper]) ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/ICCV21-TVM-TL-slides.pdf slides]) ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/ICCV21-TVM-TL-poster.pdf poster])
+- \[C11\] Wenqian Zhao, *Qi Sun*, Yang Bai, Haisheng Zheng, Wenbo Li, Bei Yu, Martin D.F. Wong, “A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 1–4, 2021. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/ICCAD21-SRAcc.pdf paper])
+- \[C10\] Chen Bai, *Qi Sun*, Jianwang Zhai, Yuzhe Ma, Bei Yu, Martin D.F. Wong, “BOOM-Explorer: RISC-V BOOM Microarchitecture Design Space Exploration Framework”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 1–4, 2021. *{{<font color="Blue">( William J. McCalla Best Paper Award)</font>}}*
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/ICCAD21-DSE-BOOM.pdf paper]) ([https://ieee-ceda.org/awards/william-j-mccalla-iccad-best-paper-award link])
+- \[C9\] Yang Bai, Xufeng Yao, *Qi Sun*, Bei Yu, “AutoGTCO: Graph and Tensor Co-Optimize for Image Recognition with Transformers on GPU”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 1–4, 2021. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/ICCAD21-AutoGTCO.pdf paper])
+- \[C8\] Tinghuan Chen, *Qi Sun*, Bei Yu, “Machine Learning in Nanometer AMS Design for Reliability”, IEEE International Conference on ASIC (*ASICON*), Kunming, Oct. 26–29, 2021. 
+# ([http://www.cse.cuhk.edu.hk/~byu/papers/C118-ASICON2021-AMSDFR.pdf paper]) (Invited Paper) 
+- \[C7\] *Qi Sun*, Tinghuan Chen, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021. *{{<font color="Blue">(Best Paper Award Nomination)</font>}}* 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C07-DATE2021-MultiFidelity.pdf paper])([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C07-DATE2021-MultiFidelity-slides.pdf slides]) ([https://past.date-conference.com/proceedings-archive/2021/html/bestpaper.html link])
+- \[C6\] *Qi Sun*, Chen Bai, Hao Geng, Bei Yu, \"Deep Neural Network Hardware Deployment Optimization via Advanced Active Learning\", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C06-DATE2021-TVM-AL.pdf paper])([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C06-DATE2021-TVM-AL-slides.pdf slides])
+- \[C5\] Siting Liu, *Qi Sun*, Peiyu Liao, Yibo Lin, Bei Yu, \"Global Placement with Deep Learning-Enabled Explicit Routability Optimization\", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01–05, 2021. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C05-DATE2021-DREAMPlace-Cong.pdf paper])([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C05-DATE2021-DREAMPlace-Cong-slides.pdf slides])
+- \[C4\] Tinghuan Chen, *Qi Sun*, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Analog IC Aging-induced Degradation Estimation via Heterogeneous Graph Convolutional Networks\", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18–21, 2021. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C04-ASPDAC2021-AgingHSD.pdf paper])([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C04-ASPDAC2021-AgingHSD-slides.pdf slides])
+- \[C3\] *Qi Sun*, Arjun Ashok Rao, Xufeng Yao, Bei Yu, Shiyan Hu, \"Counteracting Adversarial Attacks in Autonomous Driving\", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, Nov. 2–5, 2020. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C03-ICCAD2020-Stereo.pdf paper])([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C03-ICCAD2020-Stereo-slides.pdf slides])([https://whova.com/portal/webapp/iccad_202011/Agenda/1273128 whova]) (Invited Paper)
+- \[C2\] *Qi Sun*, Tinghuan Chen, Jin Miao, Bei Yu, \"Power-Driven DNN Dataflow Optimization on FPGA\", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, Nov. 4–7, 2019. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C02-ICCAD2019-DataFlow.pdf paper])([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C02-ICCAD2019-DataFlow-slides.pdf slides]) (Invited Paper)
+- \[C1\] Wei Li, Yuzhe Ma, *Qi Sun*, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, \"OpenMPL: An Open Source Layout Decomposer\", IEEE International Conference on ASIC (*ASICON*), Chongqing, China, Oct. 29–Nov. 1, 2019. 
+# ([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C01-ASICON2019-OpenMPL.pdf paper])([https://appsrv.cse.cuhk.edu.hk/~qsun/papers/C01-ASICON2019-OpenMPL-slides.pdf slides]) (Invited Paper)
+
+#. *Qi Sun*, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, \"OpenMPL: An Open Source Layout Decomposer\", Workshop on Open-Source EDA Technology (WOSET18).
+
+=== Journal papers
+- \[J6\] *Qi Sun*, Tinghuan Chen, Siting Liu, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*). 
+- \[J5\] Qi Xu, Junpeng Wang, *Qi Sun*, Bo Yuan, Song Chen, Bei Yu, Yi Kang, Feng Wu, \"Reliability-Driven Memristive Crossbar Design in Neuromorphic Computing Systems\", IEEE Transactions on Automation Science and Engineering (*TASE*). 
+# ([https://doi.org/10.1109/TASE.2021.3125065 paper])
+- \[J4\] Guojin Chen, Wanli Chen, *Qi Sun*, Yuzhe Ma, Haoyu Yang, Bei Yu, \"DAMO: Deep Agile Mask Optimization for Full Chip Scale\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
+# ([https://doi.org/10.1109/TCAD.2021.3116511 paper])
+- \[J3\] Tinghuan Chen, *Qi Sun*, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
+# ([https://doi.org/10.1109/TCAD.2021.3107250 paper])
+- \[J2\] Tinghuan Chen, Bin Duan, *Qi Sun*, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2021. 
+# ([https://doi.org/10.1109/TNNLS.2021.3084900 paper])
+- \[J1\] Wei Li, Yuzhe Ma, *Qi Sun*, Zhang Lu, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, \"OpenMPL: An Open Source Layout Decomposer\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2020. 
+# ([https://ieeexplore.ieee.org/document/9279240 paper])
+
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+Student Research Competition Award | ICCAD | 2021 ||
+William J. McCalla Best Paper Award | ICCAD | 2021 ||
+Best Paper Award Nomination | DATE | 2021 ||
+Full Postgraduate Studentship | CUHK | 2018 ||
+Outstanding Graduate | XDU  | 2018  ||
+China National Scholarship | XDU  | 2017  ||
+The First Class Scholarship | XDU | 2014 - 2016 ||
+~~~
+
+
+== Experience
+
+=== SmartMore
+- Research Intern, Heterogeneous Computing Group
+- Mar. 2020 -- Now, Hong Kong site
+- Topic: Deep Neural Network Hardware Acceleration
+
+== Teaching
+- 2021 Spring: [http://www.cse.cuhk.edu.hk/~byu/CENG5030/2021Spring/index.html CENG5030 Energy Efficient (Deep Neural Network) Computing] 
+- 2020 Fall: [http://www.cse.cuhk.edu.hk/~byu/CENG4480/2020Fall/index.html CENG4480 -- Embedded System Development and Applications]
+- 2020 Fall: [http://www.cse.cuhk.edu.hk/~byu/CMSC5743/2020Fall/index.html CMSC5743 -- Efficient Computing of Deep Neural Networks ]
+- 2019 Fall: [https://www.cse.cuhk.edu.hk/~ksleung/csci3230/ CSCI3230 -- Fundamentals of Artificial Intelligence]
+- 2019 Spring: CSCI1020 Hands-on Introduction to C\+\+ 
+- 2018 Fall: CSCI2720 Building Web Application 
+
+== Skills
+- Languages: C\/C\+\+, Vivado HLS C\+\+, Python, CUDA C\/C\+\+, LaTeX
+
+# == Resources
+# - CUDA Stream and Concurrency [https://appsrv.cse.cuhk.edu.hk/~qsun/resources/20210722-CUDA-Stream.pdf slides]
+
+# {{<a href="https://clustrmaps.com/site/1bm3c"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_k1MN9EQ6SFCi-m8Za6lY4pTqj04krPTeRMnnzTvc7c&cl=ffffff" /></a>}}
+# {{<a href="https://clustrmaps.com/site/1blt8" title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=v-Y7jrd__oRguntk9JJSKOYJ-XzWiONItXKPCs4vguA&cl=ffffff" /></a>}} 
